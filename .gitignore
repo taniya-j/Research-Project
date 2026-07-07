@@ -1,0 +1,22 @@
+# Large data files
+data/raw/
+data/processed/
+data/generated/
+
+# Model files
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large files
+*.pkl
+*.csv
+*.xlsx
+*.bin
+*.safetensors
+
+# Environment
+.env
